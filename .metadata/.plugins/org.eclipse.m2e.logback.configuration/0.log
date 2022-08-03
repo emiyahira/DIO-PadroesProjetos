@@ -1,0 +1,61 @@
+2022-08-03 13:10:54,484 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-03 13:11:56,098 [Worker-9: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-08-03 13:11:57,141 [Worker-9: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: digitalinnovation.one:lab-padroes-projeto-spring:0.0.1-SNAPSHOT @ G:\Meu Drive\EMiyahira\Developer\Diversos\Linguaguens\Cursos\DIO\Desafios\lab-padroes-projeto-spring-main\spring-main\pom.xml.
+2022-08-03 13:11:58,367 [Worker-9: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-main/src/main/java
+2022-08-03 13:11:58,407 [Worker-9: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-main/src/test/java
+2022-08-03 13:12:00,127 [Worker-9: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2022-08-03 13:12:00,741 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 13:12:00,742 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-03 13:12:00,743 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Meu Drive\EMiyahira\Developer\Diversos\Linguaguens\Cursos\DIO\Desafios\lab-padroes-projeto-spring-main\spring-main\src\main\resources
+2022-08-03 13:12:00,744 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Meu Drive\EMiyahira\Developer\Diversos\Linguaguens\Cursos\DIO\Desafios\lab-padroes-projeto-spring-main\spring-main\src\main\resources
+2022-08-03 13:12:00,747 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 13:12:00,747 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-03 13:12:00,748 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Meu Drive\EMiyahira\Developer\Diversos\Linguaguens\Cursos\DIO\Desafios\lab-padroes-projeto-spring-main\spring-main\src\test\resources
+2022-08-03 13:13:28,553 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-03 13:14:07,394 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 13:14:07,395 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-03 13:14:07,396 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Meu Drive\EMiyahira\Developer\Diversos\Linguaguens\Cursos\DIO\Desafios\lab-padroes-projeto-spring-main\spring-main\src\main\resources
+2022-08-03 13:14:07,396 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Meu Drive\EMiyahira\Developer\Diversos\Linguaguens\Cursos\DIO\Desafios\lab-padroes-projeto-spring-main\spring-main\src\main\resources
+2022-08-03 13:14:07,400 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 13:14:07,400 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-03 13:14:07,402 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Meu Drive\EMiyahira\Developer\Diversos\Linguaguens\Cursos\DIO\Desafios\lab-padroes-projeto-spring-main\spring-main\src\test\resources
+2022-08-03 13:14:25,790 [Worker-18: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: digitalinnovation.one:lab-padroes-projeto-spring:0.0.1-SNAPSHOT @ G:\Meu Drive\EMiyahira\Developer\Diversos\Linguaguens\Cursos\DIO\Desafios\lab-padroes-projeto-spring-main\spring-main\pom.xml.
+2022-08-03 13:14:29,141 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 13:14:29,142 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-03 13:14:29,142 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Meu Drive\EMiyahira\Developer\Diversos\Linguaguens\Cursos\DIO\Desafios\lab-padroes-projeto-spring-main\spring-main\src\main\resources
+2022-08-03 13:14:29,143 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Meu Drive\EMiyahira\Developer\Diversos\Linguaguens\Cursos\DIO\Desafios\lab-padroes-projeto-spring-main\spring-main\src\main\resources
+2022-08-03 13:14:29,146 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 13:14:29,146 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-03 13:14:29,147 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Meu Drive\EMiyahira\Developer\Diversos\Linguaguens\Cursos\DIO\Desafios\lab-padroes-projeto-spring-main\spring-main\src\test\resources
+2022-08-03 13:14:36,342 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 13:14:36,343 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-03 13:14:36,343 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Meu Drive\EMiyahira\Developer\Diversos\Linguaguens\Cursos\DIO\Desafios\lab-padroes-projeto-spring-main\spring-main\src\main\resources
+2022-08-03 13:14:36,344 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Meu Drive\EMiyahira\Developer\Diversos\Linguaguens\Cursos\DIO\Desafios\lab-padroes-projeto-spring-main\spring-main\src\main\resources
+2022-08-03 13:14:36,347 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 13:14:36,348 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-03 13:14:36,349 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Meu Drive\EMiyahira\Developer\Diversos\Linguaguens\Cursos\DIO\Desafios\lab-padroes-projeto-spring-main\spring-main\src\test\resources
+2022-08-03 13:16:51,049 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 13:16:51,049 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-03 13:16:51,050 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Meu Drive\EMiyahira\Developer\Diversos\Linguaguens\Cursos\DIO\Desafios\lab-padroes-projeto-spring-main\spring-main\src\main\resources
+2022-08-03 13:16:51,051 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Meu Drive\EMiyahira\Developer\Diversos\Linguaguens\Cursos\DIO\Desafios\lab-padroes-projeto-spring-main\spring-main\src\main\resources
+2022-08-03 13:16:51,054 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 13:16:51,054 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-03 13:16:51,054 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Meu Drive\EMiyahira\Developer\Diversos\Linguaguens\Cursos\DIO\Desafios\lab-padroes-projeto-spring-main\spring-main\src\test\resources
+2022-08-03 13:17:28,591 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-03 13:31:59,134 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-03 13:32:03,253 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 13:32:03,296 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-03 13:32:03,298 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Meu Drive\EMiyahira\Developer\Diversos\Linguaguens\Cursos\DIO\Desafios\PadroesProjetos\Projeto-Spring\src\main\resources
+2022-08-03 13:32:03,302 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Meu Drive\EMiyahira\Developer\Diversos\Linguaguens\Cursos\DIO\Desafios\PadroesProjetos\Projeto-Spring\src\main\resources
+2022-08-03 13:32:03,311 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 13:32:03,316 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-03 13:32:03,319 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Meu Drive\EMiyahira\Developer\Diversos\Linguaguens\Cursos\DIO\Desafios\PadroesProjetos\Projeto-Spring\src\test\resources
+2022-08-03 13:57:37,571 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-03 14:02:51,592 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-03 14:03:12,178 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 14:03:12,180 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-03 14:03:12,182 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Meu Drive\EMiyahira\Developer\Diversos\Linguaguens\Cursos\DIO\Desafios\PadroesProjetos\Projeto-Spring\src\main\resources
+2022-08-03 14:03:12,182 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Meu Drive\EMiyahira\Developer\Diversos\Linguaguens\Cursos\DIO\Desafios\PadroesProjetos\Projeto-Spring\src\main\resources
+2022-08-03 14:03:12,187 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-03 14:03:12,187 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-03 14:03:12,189 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Meu Drive\EMiyahira\Developer\Diversos\Linguaguens\Cursos\DIO\Desafios\PadroesProjetos\Projeto-Spring\src\test\resources
