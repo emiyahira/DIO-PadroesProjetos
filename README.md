@@ -1,2 +1,2 @@
 # DIO-PadroesProjetos
-DIO - Padrões de Projetos
+DIO - Padrões de Projetos - Java e Spring
